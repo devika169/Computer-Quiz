@@ -1,0 +1,85 @@
+{
+    "question": [
+      "Q1. What is the fullform of API?",
+      "Q2. What is the fullform of URL?",
+      "Q3. What kind of language is Python?",
+      "Q4. What extetion does Python use?",
+      "Q5. What is the fullform of JSON?",
+      "Q6. What is the fullform of GUI?",
+      "Q7. For what purposes is matplotlib python library used?",
+      "Q8. Which of these is not a python library?",
+      "Q9. Which is more effective on a HTML Webpage?",
+      "Q10. Which of these is not a Programming Language?"
+    ],
+    "answer": [
+      3,
+      2,
+      1,
+      4,
+      3,
+      2,
+      3,
+      4,
+      1,
+      2
+    ],
+    "options": [
+  
+      ["Application Programming Information",
+        "Application Python Interface",
+        "Application Programming Interface",
+        "None of the Above"
+      ],
+      ["Union Reform Locator",
+        "Uniform Resource Locator",
+        "Uniform Refromer Location",
+        "Uniball Revolution Location"
+      ],
+      ["Text Based",
+        "Visual based",
+        "Both",
+        "None"
+      ],
+      [".pygame",
+        ".pygui",
+        ".pycharm",
+        ".py"
+      ],
+      [
+        "JavaScript Objective Navigation",
+        "JavaScript Object Navigation",
+        "JavaScript Object Notation",
+        "JavaStyle Object Notation"
+      ],
+      [
+        "Graphical User Intel",
+        "Graphical User Interface",
+        "Graphics User Interfacing",
+        "Graphical Usage Interface"
+      ],
+      [
+        "To Draw 2D graphs in Python",
+        "To Draw 3D graphs in Python",
+        "Both",
+        "None"
+      ],
+      [
+        "Tkinter",
+        "Pillow",
+        "PyQt5",
+        "None"
+      ],
+      [
+        "Internal CSS",
+        "External CSS",
+        "Inline CSS",
+        "All Are Equal"
+      ],
+      [
+        "C#",
+        "C+++",
+        "Pygame",
+        "Node.JS"
+      ]
+    ]
+  }
